@@ -1,0 +1,25 @@
+页面布局：
+- swiper的高度随屏幕大小变化自动调整？
+
+ECMAScript：
+- ES6、ES7、ES8
+https://juejin.im/post/5b9cb3336fb9a05d290ee47e
+- 如何对嵌套的对象进行解构
+var user = {
+  id: 123,
+  name: 'hehe',
+  education: {
+    degree: 'Masters'
+  }
+};
+var {education: {degree}} = user;
+console.log(degree);
+
+前后端架构：
+- 正向代理与反向代理
+https://blog.csdn.net/zhanghanboke/article/details/77488894
+https://www.jianshu.com/p/208c02c9dd1d
+
+
+2018-10-09
+SPA: Single Page Application
